@@ -6,7 +6,7 @@ User must signup to access the contents of the website. Upon signing up, a table
 
 ### Front-End
 
-HTML 5, CSS 3, Hack, JavaScript, Bootstrap, DataTables, jQuery
+HTML 5, CSS 3, JavaScript, Bootstrap, DataTables, jQuery
 
 ### Back-End
 Vanilla PHP, MySQL Database
